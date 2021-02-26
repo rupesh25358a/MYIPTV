@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",Animax Asia (360p)
-https://tvonlineindonesia.xyz:443/m3u8/usee-animax-People+62.m3u8
+http://rr.dens.tv/h/h18/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",Animax asia2 (720p)
 http://180.92.158.208:9981/stream/channelid/806982131?ticket=9BFC47F84AD532D18AEADCA3B800A00687150E25&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",Animax asia (eng-sub)
+http://202.183.247.206:9981/stream/channelid/1468536448?ticket=DCBA58C0747DFA3D33D4CAFF1C804D08E2BDCCD8&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",Animax Japan (720p)
 https://cdn.jpth10.jpnettv.live/jptv/janimax_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",AniPlus (360p)
