@@ -8,7 +8,7 @@ http://202.183.247.206:9981/stream/channelid/1468536448?ticket=DCBA58C0747DFA3D3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",Animax Japan (720p)
 https://cdn.jpth10.jpnettv.live/jptv/janimax_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="" group-title="",AniPlus (360p)
-http://rr1.dens.tv/h/h02/index.m3u8
+http://121.156.46.79/live/10341.m3u8?sid=60720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" tvg-url="" group-title="Local",BS Asahi
 http://203.162.235.41:16914
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg" tvg-url="" group-title="Local",BS Fuji (BS181)
