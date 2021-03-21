@@ -79,3 +79,7 @@ https://service-stitcher.clusters.pluto.tv/hls/channel/5d93b635b43dd1a399b39eee/
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1,YO! MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080blivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="South Korea(한국어)",Animax 한국어
+http://121.156.46.79/live/10521.m3u8?sid=60720
+#EXTINF:-1 logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/aotg/aniplus/pos/aniplus_300.png" group-title="South Korea(한국어)", Aniplus 한국어
+http://121.156.46.79/live/10341.m3u8?sid=60720
