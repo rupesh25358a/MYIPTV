@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo=https://i.ibb.co/cCdpgL9/animax.png group-title=KIDS,ANIMAX ID
+https://fikrulmkc.my.id/bagus/usee-animax.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax ID
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1,Animax動漫台
+https://z1.ubtvfans.com/live/59/dd7f22a2a6a224dca2d211424fe7769e/index.m3u8
+#EXTINF:-1,Animax HD
+https://cdn6.goprimetime.info/feed/LC38/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax HD
+https://cdn6.goprimetime.info/feed/LC38/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="JP" tvg-url="" group-title="",BS ANIMAX 
+http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", ANIPLUS 
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-logo=https://i.ibb.co/VHZ5Wr0/aniplus.png group-title=KIDS,ANIPLUS
+https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
+#EXTINF:-1,AXN HD
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
+https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1,ARIRANG HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1,ARIRANG HD
+https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
+#EXTINF:-1,ARIRANG
+https://cdn6.goprimetime.info/feed/chariang/index.m3u8
+#EXTINF:-1,KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
+#EXTINF:-1,KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" tvg-url="" group-title="Local",BS Asahi
+http://redlabmcdn.s.llnwi.net/jp01/bs04/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/TV_Tokyo_logo_20110629.svg" tvg-url="" group-title="JP",BS TV Tokyo (BS171)
+http://redlabmcdn.s.llnwi.net/jp01/bs06/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/65/Fuji_TV_Logo.svg" tvg-url="" group-title="JP",Fuji TV (JOCX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa7/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png" tvg-url="" group-title="JP",NHK E
+http://redlabmcdn.s.llnwi.net/jp01/ryowa1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png" tvg-url="" group-title="JP",NHK G
+http://redlabmcdn.s.llnwi.net/jp01/ryowa2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/07/NTV.png" tvg-url="" group-title="JP",Nippon TV (JOAX-DTV)
+http://redlabmcdn.s.llnwi.net/jp01/ryowa3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Tokyo_Broadcasting_System_logo_2020.svg" tvg-url="" group-title="JP",TBS
+http://redlabmcdn.s.llnwi.net/jp01/ryowa5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-url="" group-title="JP",Tokyo MX 1
+http://redlabmcdn.s.llnwi.net/jp01/ryowa8/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/800px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" tvg-url="" group-title="JP",Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TV_Asahi_Logo.svg" tvg-url="" group-title="JP",TV Asahi
+http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" tvg-url="" group-title="JP",TV Tokyo
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1,MTV Beats
+https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
