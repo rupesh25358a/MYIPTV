@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,ANIBOX
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist_w1321927646_b1460000_sltha.m3u8
+#EXTINF:-1,ANIBOX
+https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo=https://i.ibb.co/cCdpgL9/animax.png group-title=KIDS,ANIMAX ID
 https://fikrulmkc.my.id/bagus/usee-animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax ID
