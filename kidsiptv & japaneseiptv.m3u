@@ -5,6 +5,8 @@ https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist_w
 https://fikrulmkc.my.id/bagus/usee-animax.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax ID
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax MY
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
@@ -18,7 +20,7 @@ https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
 #EXTINF:-1,AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 #EXTINF:-1,ARIRANG HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,ARIRANG HD
