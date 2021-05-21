@@ -19,10 +19,6 @@ https://fikrulmkc.my.id/bagus/usee-aniplus.m3u8
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FOX MOVIES" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fox_movies_asia.png" group-title="MOVIES",FOX MOVIES
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="ext"  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO HD
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1,ARIRANG HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,ARIRANG HD
