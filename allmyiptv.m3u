@@ -59,6 +59,18 @@ http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:-1,ANIBOX
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist.m3u8
+#EXTINF:-1,Anibox
+https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist_w1321927646_b1460000_sltha.m3u8
+#EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="KIDS", ANIMAX
+https://nonton.site:8443/provision/pp/37420
+EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax ID
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax MY
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax My
+http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", ANIPLUS
+https://nonton.site:8443/provision/pp/37439
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" tvg-url="" group-title="kids",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvg-url="" group-title="kids",Anime All Day
@@ -71,6 +83,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UY1200_CR93,0,630,1200_AL_.jpg" tvg-url="" group-title="kids",NARUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
+https://nonton.site:8443/provision/pp/37406
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
+http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH 
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL(asia)
+https://nonton.site:8443/provision/pp/37402
 #EXTINF:-1,Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="http://images.cinedigm.com/jtv/contv/images/contvanimelive_CONtvAnime_Horizontal_900x530_v1.jpg" group-title="kids",CONtv Anime
@@ -79,6 +99,16 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/master.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://sm.pcmag.com/t/pcmag_ap/review/r/retrocrush/retrocrush_5p4u.1024.jpg" group-title="kids",RetroCrush
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.coppa=false&ads.is_lat=1&ads.ua=0&ads.content_type=livefeed&ads.content_rating=TV14
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="",Qiyi
+http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1,ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="ENTERTAINMENT", One
+http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Gem_TV_Asia.jpg" group-title="ENTERTAINMENT",GEM
+http://bonev2.xyz/playlist/usee-sgem-new-bonetv.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Gem_TV_Asia.jpg" group-title="ENTERTAINMENT",Gem
+https://nonton.site:8443/provision/pp/770
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="",1HD Music TV
