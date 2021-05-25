@@ -27,6 +27,12 @@ https://nonton.site:8443/provision/pp/37406
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@INDOmovies",AXN
 http://iptvtree.net:8080/44444/4506fd18/165079
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png,Hungama Tv Hungama Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c36fa382a5bf123.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png,Disney Hindi
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH(MY)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL
