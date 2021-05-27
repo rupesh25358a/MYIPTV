@@ -66,4 +66,4 @@ https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/TV_Asahi_Logo.svg" tvg-url="" group-title="JP",TV Asahi
 http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" tvg-url="" group-title="JP",TV Tokyo
-http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u
+http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
