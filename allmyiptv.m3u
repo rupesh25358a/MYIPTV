@@ -7,12 +7,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://51.79.82.231:8080/US_HBO_EAST/video.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO
 http://51.79.82.231:8080/US_HBO_WEST/video.m3u8
+#EXTINF:-1 group-title="MOVIES",HBO 
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO HD
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8
-#EXTINF:-1 group-title="MOVIES",HBO 
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://www.lyngsat.com/logo/tv/hh/hbo_asia.png" group-title="MOVIES",HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqyadokwoihjb5IKE7MmxfLphwMfvWLmATvtoazrPYmNijw55KIedTCvIqoIxKlgio0KY&usqp=CAU" group-title="MOVIES",HBO Hits
@@ -105,6 +105,7 @@ https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in_480p/index.m3u8
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" tvg-url="" group-title="Music",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url="" group-title="Music",Music Top
 https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url="" group-title="Music",Music Top
 https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
