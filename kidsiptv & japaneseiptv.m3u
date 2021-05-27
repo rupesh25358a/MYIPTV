@@ -5,7 +5,7 @@ https://fikrulmkc.my.id/bagus/usee-animax.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="JP" tvg-url="" group-title="",ANIMAX 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="JP" tvg-url="" group-title="",ANIMAX (JP)
 http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="KIDS", ANIMAX
 https://nonton.site:8443/provision/pp/37420
@@ -15,50 +15,38 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax My
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", ANIPLUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", Aniplus
 https://nonton.site:8443/provision/pp/37439
 #EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", ANIPLUS 
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1,AXN HD
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN-asia
 https://nonton.site:8443/provision/pp/37406
-#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN(MY)
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@INDOmovies",AXN
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@INDOmovies",AXN asia
 http://iptvtree.net:8080/44444/4506fd18/165079
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hungama.png,Hungama Tv Hungama Hindi
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/c36fa382a5bf123.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney_channel_global.png,Disney Hindi
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Kids/9ae3730b2e905c7.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH(MY)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL (US)
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY XD US
-http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="",Qiyi
-http://185.180.221.194:8278/streams/d/Qiyi/playlist.m3u8
+#EXTINF:-1,Nickelodeon
+http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
+http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network(ASIA)
+https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
 #EXTINF:-1,ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="ENTERTAINMENT", One
 http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@INDOmovies",SGem HD
-http://iptvtree.net:8080/44444/4506fd18/264763
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="ShareExt@INDOmovies",Sony One
-http://iptvtree.net:8080/44444/4506fd18/165077
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Gem_TV_Asia.jpg" group-title="ENTERTAINMENT",GEM
-http://bonev2.xyz/playlist/usee-sgem-new-bonetv.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Gem_TV_Asia.jpg" group-title="ENTERTAINMENT",Gem
 https://nonton.site:8443/provision/pp/770
-#EXTINF:-1,ARIRANG HD
+#EXTINF:-1,ARIRANG ch HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,ARIRANG HD
 https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
-#EXTINF:-1,ARIRANG
-https://cdn6.goprimetime.info/feed/chariang/index.m3u8
 #EXTINF:-1,KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1,KBS World
