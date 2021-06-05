@@ -107,8 +107,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1,MH1
 https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in_480p/index.m3u8
-#EXTINF:-1,MNET
-http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" tvg-url="" group-title="Music",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url="" group-title="Music",Music Top
@@ -119,8 +117,6 @@ https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1,MTV BIGGEST POP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
-#EXTINF:-1,SBS
-http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="",ShowBox
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="Music",UTV (576p)
