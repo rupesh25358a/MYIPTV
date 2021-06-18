@@ -75,3 +75,5 @@ https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 http://redlabmcdn.s.llnwi.net/jp01/ryowa4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/vgEnHX6.png" tvg-url="" group-title="JP",TV Tokyo
 http://redlabmcdn.s.llnwi.net/jp01/ryowa6/index.m3u8
+#EXTINF:-1 , Test animax
+https://raw.githubusercontent.com/rupesh25358a/MYIPTV/main/animax.mpd 
