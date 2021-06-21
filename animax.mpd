@@ -19,7 +19,7 @@
           <S d="540000" r="9" t="146159884328664" />
         </SegmentTimeline>
       </SegmentTemplate>
-      <Representation audioSamplingRate="48000" bandwidth="1024000" codecs="mp4a.40.2" id="audio/smptett_frag_bitmap_eng_profile_0_video-cif-stream-1" />
+      <Representation audioSamplingRate="48000" bandwidth="1024000" codecs="mp4a.40.2" id="82/video-cif-stream-1" />
     </AdaptationSet>
     <AdaptationSet contentType="audio" id="2" lang="jpn" mimeType="audio/mp4" segmentAlignment="true">
       <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="76430546" timescale="90000">
@@ -27,7 +27,7 @@
           <S d="540000" r="9" t="146159884328664" />
         </SegmentTimeline>
       </SegmentTemplate>
-      <Representation audioSamplingRate="48000" bandwidth="1024000" codecs="mp4a.40.2" id="audios/mptett_frag_bitmap_eng_profile_0_video-cif-stream-1" />
+      <Representation audioSamplingRate="48000" bandwidth="1024000" codecs="mp4a.40.2" id="80/video-cif-stream-1" />
     </AdaptationSet>
     <AdaptationSet contentType="text" id="4" lang="may" mimeType="application/mp4" segmentAlignment="true">
       <SegmentTemplate initialization="$RepresentationID$_init.mp4" media="$RepresentationID$-$Time$.m4f" startNumber="76430546" timescale="90000">
