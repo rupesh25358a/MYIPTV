@@ -41,6 +41,8 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624429996~acl=%2f*~id=180909063665947938~data=hdntl~hmac=2be30388df224b5792bfa9953e00839f12d3acfd436bcb377a16e829c969d664/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/2eec928c-fa5e-4379-b6d0-6d1a3bedd424:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
+#EXTINF:-1,Sony yay
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/20210330T060818/master_900/09134/master_900_00077.ts
 #EXTINF:-1,ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="ENTERTAINMENT", One
