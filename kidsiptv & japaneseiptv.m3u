@@ -23,6 +23,8 @@ http://27.254.130.62/feed/LC38/tracks-v1a1/mono.m3u8
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", Aniplus (MY-SUBS)
 http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",Astro AXN
+https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 #EXTINF:-1,AXN HD(vietnam)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN-Asia
