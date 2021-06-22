@@ -42,7 +42,7 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1624364379~acl=/*~id=180909063665947938~hmac=d9ae1fe383e1394aebdc08a09b53a977873006e235de174e4b9888a16d563ebc&originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/3b8afcae-6435-410e-94e5-ba5a593fc2b7:SIN/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624450487~acl=%2f*~id=180909063665947938~data=hdntl~hmac=cd8f5bcdb3672bd63dbe7934536a482f6c94bd8f2d9f7e5413e54a205d8e2495/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/3b8afcae-6435-410e-94e5-ba5a593fc2b7:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
 #EXTINF:-1,Sony yay
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624450487~acl=%2f*~id=180909063665947938~data=hdntl~hmac=cd8f5bcdb3672bd63dbe7934536a482f6c94bd8f2d9f7e5413e54a205d8e2495/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/3b8afcae-6435-410e-94e5-ba5a593fc2b7:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
 #EXTINF:-1,ONE
