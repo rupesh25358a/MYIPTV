@@ -35,18 +35,28 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH(MY)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH(US)
-https://h1.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=50116130&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDExOjAzOjM5IEFNJmhhc2hfdmFsdWU9ZG5zcTcyMm8yR1RlMXBPTU5ROWJvUT09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney Channel(US)
+https://h2.ustvgo.la/Disney/myStream/l_502255_24829488_4138.ts?nimblesessionid=22597153&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDk6NTYgUE0maGFzaF92YWx1ZT15VVoyNG1RVkp6YjJKS3RhdHMxT2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DISNEY CH(US)
+https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDk6NTYgUE0maGFzaF92YWx1ZT15VVoyNG1RVkp6YjJKS3RhdHMxT2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DISNEYCH(US)
+https://h2.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=22597153&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDk6NTYgUE0maGFzaF92YWx1ZT15VVoyNG1RVkp6YjJKS3RhdHMxT2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL(US)
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY XD(US)
+https://h2.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NTI6NDIgUE0maGFzaF92YWx1ZT1QWTZ2T21hT0hxVlF0RWVrTDQrR2N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEYXD(US)
+https://h2.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=22598880&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NTI6NDIgUE0maGFzaF92YWx1ZT1QWTZ2T21hT0hxVlF0RWVrTDQrR2N3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD(US)
 http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DISNEY XD(US)
-https://h4.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=16754352&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDExOjA4OjUyIEFNJmhhc2hfdmFsdWU9RU5ybTBia3g3UExDYm5UUTc5L2t5Zz09JnZhbGlkbWludXRlcz0yNDA=
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DisneyXD(US)
+https://h2.ustvgo.la/DisneyXD/myStream/l_502561_23383443_3897.ts?nimblesessionid=22598880&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NTI6NDIgUE0maGFzaF92YWx1ZT1QWTZ2T21hT0hxVlF0RWVrTDQrR2N3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1,Cartoon Network(US)
+https://h4.ustvgo.la/CN/myStream/l_276898_20096848_6656.ts?nimblesessionid=16795367&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDY6MzQgUE0maGFzaF92YWx1ZT11dW5XZ0NYRkFsZHF0dzdCQzFscStnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,Cartoon Network (US)
-https://h4.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=16753099&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDExOjAxOjMxIEFNJmhhc2hfdmFsdWU9c2wzR3ZYcVd3NDNNeFBGQzB2eTZ5UT09JnZhbGlkbWludXRlcz0yNDA=
+https://h4.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=16795367&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDY6MzQgUE0maGFzaF92YWx1ZT11dW5XZ0NYRkFsZHF0dzdCQzFscStnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
