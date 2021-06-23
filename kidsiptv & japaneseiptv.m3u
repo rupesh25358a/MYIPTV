@@ -42,9 +42,9 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624450487~acl=%2f*~id=180909063665947938~data=hdntl~hmac=cd8f5bcdb3672bd63dbe7934536a482f6c94bd8f2d9f7e5413e54a205d8e2495/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/3b8afcae-6435-410e-94e5-ba5a593fc2b7:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624515199~acl=%2f*~id=180909063665947938~data=hdntl~hmac=ca2c4578fc5d8f59587907022b47bae7e300f74a79196935f2bd90bd11419155/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/78ef49ab-4c9a-4e65-807a-75d9a7feaffa:SIN2/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
 #EXTINF:-1,Sony yay
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624450487~acl=%2f*~id=180909063665947938~data=hdntl~hmac=cd8f5bcdb3672bd63dbe7934536a482f6c94bd8f2d9f7e5413e54a205d8e2495/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/3b8afcae-6435-410e-94e5-ba5a593fc2b7:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1624429073~acl=/*~id=180909063665947938~hmac=fb126bd30b2edfc4b39beea1b00b9be0399400c057322743f8317b0a8d840b4d&originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/78ef49ab-4c9a-4e65-807a-75d9a7feaffa:SIN2/master.m3u8
 #EXTINF:-1,ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="ENTERTAINMENT", One
