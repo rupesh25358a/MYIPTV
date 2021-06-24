@@ -36,7 +36,7 @@ http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH(MY)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney Channel(US)
-https://h1.ustvgo.la/Disney/myStream/l_288880_7363894_1227.ts?nimblesessionid=50577205&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIxIDg6NTk6MTQgQU0maGFzaF92YWx1ZT1zSGZKOXJVNEh2MUg4OEQrTlhkOVNRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=17221159&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIxIDk6MzE6MTUgQU0maGFzaF92YWx1ZT1iREVaQkdPR2FEdTkvcC8zekkybnZRPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL(US)
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY XD(US)
