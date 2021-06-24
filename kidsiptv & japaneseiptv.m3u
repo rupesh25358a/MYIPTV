@@ -3,10 +3,6 @@
 https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist.m3u8
 #EXTINF:-1,AT-X
 https://sub2.neetball.net/live/neet.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax
-http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",ANIMAX
-http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="JP" tvg-url="" group-title="",ANIMAX (JP)
 http://redlabmcdn.s.llnwi.net/jp01/bs14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
@@ -15,6 +11,10 @@ https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax-Asia (MY)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax
+http://210.210.155.35/dr9445/h/h144/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",ANIMAX
+http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax(My)
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax(TH-SUB)
@@ -36,33 +36,21 @@ http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH(MY)
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney Channel(US)
-https://h2.ustvgo.la/Disney/myStream/l_502255_24829488_4138.ts?nimblesessionid=22597153&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDk6NTYgUE0maGFzaF92YWx1ZT15VVoyNG1RVkp6YjJKS3RhdHMxT2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DISNEY CH(US)
-https://h2.ustvgo.la/Disney/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDk6NTYgUE0maGFzaF92YWx1ZT15VVoyNG1RVkp6YjJKS3RhdHMxT2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DISNEYCH(US)
-https://h2.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=22597153&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDk6NTYgUE0maGFzaF92YWx1ZT15VVoyNG1RVkp6YjJKS3RhdHMxT2VRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=17190459&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIxIDY6MjU6MzcgQU0maGFzaF92YWx1ZT1tL0hKYkY4bW4vVkRITHJld0hnWnRnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL(US)
 http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY XD(US)
-https://h2.ustvgo.la/DisneyXD/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NTI6NDIgUE0maGFzaF92YWx1ZT1QWTZ2T21hT0hxVlF0RWVrTDQrR2N3PT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEYXD(US)
-https://h2.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=22598880&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NTI6NDIgUE0maGFzaF92YWx1ZT1QWTZ2T21hT0hxVlF0RWVrTDQrR2N3PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h4.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=17190744&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIxIDY6MjY6MTMgQU0maGFzaF92YWx1ZT0zTEZ0M1NHVU40aWt3YjlsTWtnZk9RPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD(US)
 http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DisneyXD(US)
-https://h2.ustvgo.la/DisneyXD/myStream/l_502561_23383443_3897.ts?nimblesessionid=22598880&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NTI6NDIgUE0maGFzaF92YWx1ZT1QWTZ2T21hT0hxVlF0RWVrTDQrR2N3PT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1,Cartoon Network(US)
-https://h4.ustvgo.la/CN/myStream/l_276898_20096848_6656.ts?nimblesessionid=16795367&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDY6MzQgUE0maGFzaF92YWx1ZT11dW5XZ0NYRkFsZHF0dzdCQzFscStnPT0mdmFsaWRtaW51dGVzPTI0MA==
-#EXTINF:-1,Cartoon Network (US)
-https://h4.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=16795367&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDIxIDE6NDY6MzQgUE0maGFzaF92YWx1ZT11dW5XZ0NYRkFsZHF0dzdCQzFscStnPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=22986120&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNC8yMDIxIDY6MTk6NDEgQU0maGFzaF92YWx1ZT1nRWtIOTY5TGZVa01XdkRxZFZNSjFnPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624534569~acl=%2f*~id=180909063665947938~data=hdntl~hmac=a1a610af6cac2b3214c2b4f013f86f07f29ef89497c4bd102073f739a06dde7a/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/89a76036-1aff-4561-9c46-c07cc7ee88a6:SIN2/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
-#EXTINF:-1,Sony yay
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1624448464~acl=/*~id=180909063665947938~hmac=2f9d86de7a438b7cfd61b9ac14fb9b253b68aede3823ad04bfec3f4b7a3830e4&originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/89a76036-1aff-4561-9c46-c07cc7ee88a6:SIN2/master.m3u8
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1624601866~acl=%2f*~id=180909063665947938~data=hdntl~hmac=11a7836abdccaed809d4446db0c1ada128c1fd23e9c6a3c7936b8362d3c70132/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/ba208691-a485-46a8-8fdd-7dbc133db778:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
 #EXTINF:-1,ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="ENTERTAINMENT", One
