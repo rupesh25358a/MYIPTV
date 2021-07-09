@@ -52,7 +52,7 @@ https://h2.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=30619548&wmsAuthSig
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1625817607~acl=%2f*~id=328c382c352342cf822e90dd3915aeb4-1624343409980-180909063665947938~data=hdntl~hmac=3060e02cb6f90dcebaef5ec22d19f817b8dcf17b07ec85c1cf8c0f55a53a7ba4/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/4a760146-9497-493a-a325-3192dd2bc23a:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1625808305~acl=/*~id=328c382c352342cf822e90dd3915aeb4-1624343409980-180909063665947938~hmac=e93f77778e98b1c4d7b76c55589f7213d185bec86c77b41aaa0b844abe2b1e87&originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/0d69164c-2713-437c-a8da-f26a86d7a07c:SIN2/master.m3u8
 #EXTINF:-1,Hungama TV
 
 #EXTINF:-1,MARVEL HQ
