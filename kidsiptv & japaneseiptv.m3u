@@ -42,7 +42,7 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
-https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1626150961~acl=%2f*~id=328c382c352342cf822e90dd3915aeb4-1624343409980-180909063665947938~data=hdntl~hmac=7588cb71c88502c2068346b7f51bfcae2cb94af0f5942006475b47ff656f83b6/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/db1b8278-9594-4034-b37c-25fd0a6f46e5:SIN2/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Hungama TV
 
 #EXTINF:-1,MARVEL HQ
