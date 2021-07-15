@@ -36,13 +36,13 @@ http://51.79.82.231:8080/US_DISNEY_CHANNEL_EAST_USA/video.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL(IN)
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD(US)
-http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
-https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1626447961~acl=%2f*~id=328c382c352342cf822e90dd3915aeb4-1624343409980-180909063665947938~data=hdntl~hmac=695a19e80909655a1e2b188d22a4bcf6de2c661dadfdf2878fad3a49cdafc417/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/b76fd971-535f-4474-8a69-c61333f75d74:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
 #EXTINF:-1,Hungama TV
 
 #EXTINF:-1,MARVEL HQ
