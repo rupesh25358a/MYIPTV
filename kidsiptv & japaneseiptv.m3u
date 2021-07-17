@@ -43,8 +43,6 @@ http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 #EXTINF:-1,Sony YAY
 https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1626503336~acl=%2f*~id=328c382c352342cf822e90dd3915aeb4-1624343409980-180909063665947938~data=hdntl~hmac=babc98a5dd45cc9e220086d55566133ebba0bf20494350a0f637fcb6bddf6b12/master_900.m3u8?originpath=/linear/hls/pb/event/40H5HfwWTZadFGYkBTqagg/stream/7ddd4929-6ec1-45ba-ba4e-5fd59d9837da:SIN/variant/ea824ed595432c78ed70c5042d7744f5/bandwidth/1218800.m3u8
-#EXTINF:-1,Hungama TV
-http://212.224.98.196:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=
 #EXTINF:-1,MARVEL HQ
 
 #EXTINF:-1,ONE
@@ -65,3 +63,5 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 #EXTINF:-1,SBS
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+#EXTINF:-1,SONY PIX HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD
