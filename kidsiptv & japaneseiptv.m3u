@@ -57,6 +57,8 @@ http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #EXTINF:-1,Sony YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8?HjFreeTV=YAY
+#EXTINF:-1,Sony yay
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1,Hungama TV
 http://212.224.98.196:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=
 #EXTINF:-1,MARVEL HQ
