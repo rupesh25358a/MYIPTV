@@ -19,14 +19,10 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax(TH-SUB)
 http://27.254.130.62/feed/LC38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="" group-title="Animation",Animax (Indonesian Subs)
-https://tv.mbed.cc/animax.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", ANIPLUS
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", Aniplus 
 http://45.126.83.51/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="" group-title="Animation",Aniplus (Indonesian Subs)
-https://tv.mbed.cc/aniplus.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",Astro AXN
 https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
