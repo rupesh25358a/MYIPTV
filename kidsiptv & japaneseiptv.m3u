@@ -45,8 +45,10 @@ http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL(US)
 https://h4.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=32102959&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMC8yMDIxIDEwOjUwOjQ3IEFNJmhhc2hfdmFsdWU9V25nanpCejRNZmx1SkZnY0xXSzROQT09JnZhbGlkbWludXRlcz0yNDA=
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tatasky.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000119
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL(IN)
-
+https://delta9tatasky.akamaized.net/out/i/2112642.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD(US)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 #EXTINF:-1,Nickelodeon
