@@ -51,8 +51,8 @@ https://h4.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=32102959&wmsAut
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://185.180.221.194:8278/streams/d/Nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
-http://185.180.221.194:8278/streams/d/Cn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network(US)
+http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/cartoon-network.png",CartoonNetwork
