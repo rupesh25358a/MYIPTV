@@ -3,8 +3,6 @@
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& Flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& Flix HD
-http://212.102.60.40:2200/R-EX/HINDI_AND_FLIX_HD-in/index.m3u8?token=
 #EXTINF:-1,STAR MOVIES HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1,Star Movies Select HD
@@ -29,8 +27,14 @@ http://212.224.98.196:2200/R-EX/HINDI_UTV_HD-in/index.m3u8?token=
 http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1,UTV Action
 http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="ABC" tvg-logo="https://img.pngio.com/abc-logo-png-transparent-abc-logopng-images-pluspng-abc-logo-transparent-2272_1704.png" group-title="ENTERTAINMENT",ABC
+http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CBS_2018.png" group-title="ENTERTAINMENT",CBS
+http://stream.tvtap.live:8081/live/us-cbs.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="SKY MOVIES DISNEY" tvg-logo="" group-title="MOVIES",SKY MOVIES DISNEY
+http://stream.tvtap.live:8081/live/mdisney.stream/playlist.m3u8?token=null
 #EXTINF:-1,Comedy Central
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=465&deviceId=5ca671f215a62078d2ec0abf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+http://stream.tvtap.live:8081/live/us-comedy.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" tvg-url="" group-title="kids",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvg-url="" group-title="kids",Anime All Day
