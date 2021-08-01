@@ -43,6 +43,8 @@ http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney-Channel
+http://stream.tvtap.live:8081/live/us-disney.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY-CHANNEL
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -50,7 +52,7 @@ http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CHANNEL
 https://delta9tatasky.akamaized.net/out/i/2112642.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
+http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", DISNEY XD
 http://stream.tvtap.live:8081/live/disneyxd.stream/playlist.m3u8?token=null
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -66,9 +68,13 @@ https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
 #EXTINF:-1,Nickelodeon Sonic
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",Nickelodeon
+http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",NICKELODEON
 http://stream.tvtap.live:8081/live/us-nick.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
+#EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", CARTOON NETWORK
+http://stream.tvtap.live:8081/live/us-cartoon.stream/playlist.m3u8?token=null
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/cartoon-network.png",CartoonNetwork
@@ -81,6 +87,8 @@ https://delta43tatasky.akamaized.net/out/i/18056.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png", Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png", Boomerang
+http://stream.tvtap.live:8081/live/us-boomerang.stream/playlist.m3u8?token=null
 #EXTINF:-1,Sony YAY
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8?HjFreeTV=YAY
 #EXTINF:-1,Sony yay
