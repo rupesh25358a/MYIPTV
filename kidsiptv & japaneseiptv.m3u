@@ -9,20 +9,10 @@ https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax-Asia (MY)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax
-http://210.210.155.35/dr9445/h/h144/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png",ANIMAX
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax(My)
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax(TH-SUB)
-http://27.254.130.62/feed/LC38/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", ANIPLUS
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/myuUvgO.jpg" group-title="KIDS", Aniplus 
-http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",Astro AXN
 https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -31,14 +21,6 @@ https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1,AXN HD(vietnam)
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN-Asia
-http://45.126.83.51/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png" group-title="",AXN-Asia(MY)
-http://210.210.155.35/uq2663/h/h141/01.m3u8
-#EXTINF:-1 tvg-ID="" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="",AXN(My)
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY CH(MY)
-http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel
@@ -63,8 +45,6 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png", Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png", BOOMERANG
-http://stream.tvtap.live:8081/live/us-boomerang.stream/playlist.m3u8
 #EXTINF:-1,Sony yay
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1,Hungama TV
@@ -73,14 +53,10 @@ http://212.224.98.196:2200/R-EX/KIDS_Hungama_TV-in/index.m3u8?token=
 
 #EXTINF:-1,ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://onetvasia.com/sites/onetvasia.com/files/logos/onetvasia-logo.png" group-title="ENTERTAINMENT", One
-http://185.180.221.194:8278/streams/d/SetOne/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo = "https://www.dropbox.com/s/ojfyysszm36psge/sony one.png?dl=1",One(ID)
 https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Gem_TV_Asia.jpg" group-title="ENTERTAINMENT",Gem
-http://45.126.83.51/uq2663/h/h19/index.m3u8
 #EXTINF:-1,ARIRANG ch HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,ARIRANG HD
