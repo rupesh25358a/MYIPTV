@@ -71,3 +71,9 @@ http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
 #EXTINF:-1,SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD
+#EXTINF:-1,Disney channel
+https://h3.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=48463403&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIxIDc6NDA6MTIgQU0maGFzaF92YWx1ZT1GZ2V1VUxWYnRid2szUjQyZmR2cHBBPT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,Disney xd 
+https://h3.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=48463681&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIxIDc6NDA6NTkgQU0maGFzaF92YWx1ZT1VNXVQcUR3a2lham1pejBkdGQ1amx3PT0mdmFsaWRtaW51dGVzPTI0MA==
+#EXTINF:-1,Cartoon Network
+https://h4.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=48284112&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIxIDc6NDE6NTIgQU0maGFzaF92YWx1ZT1udkJqMWJseHhJZDZmMHN1VzhCUnNBPT0mdmFsaWRtaW51dGVzPTI0MA==
