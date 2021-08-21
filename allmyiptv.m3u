@@ -7,24 +7,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1,SONY PIX
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1,COLORS INFINITY HD
-https://jio.instream.ml/jio.php?c=Colors_Infinity_HD&q=800&e=.m3u8
 #EXTINF:-1,ZEE CAFE HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Rishtey_Cineplex.png/revision/latest/scale-to-width-down/250?cb=20190308001642" group-title="INDIA",RISHTEY CINEPLEX
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-#EXTINF:1,UTV Movies
-http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1,UTV Action
-http://84.17.41.7/UTVACTION-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ABC" tvg-logo="https://img.pngio.com/abc-logo-png-transparent-abc-logopng-images-pluspng-abc-logo-transparent-2272_1704.png" group-title="ENTERTAINMENT",ABC
-http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/CBS_2018.png" group-title="ENTERTAINMENT",CBS
-http://stream.tvtap.live:8081/live/us-cbs.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="SKY MOVIES DISNEY" tvg-logo="" group-title="MOVIES",SKY MOVIES DISNEY
-http://stream.tvtap.live:8081/live/mdisney.stream/playlist.m3u8
-#EXTINF:-1,Comedy Central
-https://jio.instream.ml/jio.php?c=Comedy_Central_HD&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5be4c6311843b56328bce619/colorLogoPNG.png" tvg-url="" group-title="kids",Anime All Ages
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be4c6311843b56328bce619/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="http://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG.png" tvg-url="" group-title="kids",Anime All Day
@@ -47,18 +33,10 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD
 http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8
-#EXTINF:-1,Nick HD+
-https://jio.instream.ml/jio.php?c=Nick_HD_Plus&q=800&e=.m3u8
-#EXTINF:-1,Sonic
-https://jio.instream.ml/jio.php?c=sonic_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/cartoon-network.png",Cartoon Network HD+
-https://jio.instream.ml/jio.php?c=CN_HD_English&q=800&e=.m3u8
-#EXTINF:-1,Sony YAY
-https://jio.instream.ml/jio.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="",1HD Music TV
