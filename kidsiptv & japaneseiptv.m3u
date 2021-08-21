@@ -19,8 +19,6 @@ https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png", AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1,AXN HD(vietnam)
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AXN-HD-1080p/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel
@@ -69,6 +67,12 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 #EXTINF:-1,SBS
 http://51.81.66.195:1935/krtv/sbs_540/playlist.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" tvg-name="NHK General TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",NHK General TV (540p)
+https://nhk.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="NipponTV.jp" tvg-name="Nippon TV" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",Nippon TV (540p)
+https://ntv1.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="TBS.jp" tvg-name="TBS" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="",TBS (540p)
+https://tbs.mov3.co/hls/tbs.m3u8
 #EXTINF:-1,SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD
 #EXTINF:-1,Disney channel
