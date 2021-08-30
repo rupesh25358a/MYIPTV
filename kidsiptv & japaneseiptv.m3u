@@ -49,8 +49,8 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1,Hungama TV
 http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
-#EXTINF:-1,MARVEL HQ
-https://ersupport.com/plugins/QuickWebProxy/miniProxy.php
+#EXTINF:-1,Hungama tv
+http://103.153.39.34:8000/play/a04l/index.m3u8
 #EXTINF:-1,MARVEL HQ hindi
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
 #EXTINF:-1,ONE
