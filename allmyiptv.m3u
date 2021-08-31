@@ -31,6 +31,14 @@ https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.coppa=false&ads.is_lat=1&ads.ua=0&ads.content_type=livefeed&ads.content_rating=TV14
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/DisneyChannel.uk.png" group-title="KIDS", DISNEY-CHANNEL
 http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel- Hindi (1)"  group-title="Kids", Disney Channel- Hindi
+http://103.153.39.34:8000/play/a04m/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids", DisneyChannel
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1,Hungama tv
+http://103.153.39.34:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wzHl5iW.png" tvg-name="Marvel HQ HD"  group-title="Kids",Marvel HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="KIDS", Disney XD
 http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",Nickelodeon
