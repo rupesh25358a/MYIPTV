@@ -79,6 +79,14 @@ https://ntv1.mov3.co/hls/ntv.m3u8
 https://tbs.mov3.co/hls/tbs.m3u8
 #EXTINF:-1,SONY PIX HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8?HjFreeTV=PIXHD
+#EXTINF:-1 tvg-id="RickAndMorty.us" tvg-name="Rick and Morty (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vLzXFTa.jpg" group-title="Animation",Rick and Morty
+https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
+#EXTINF:-1 tvg-id="SamuraiJack.us" tvg-name="Samurai Jack (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zIjbwSa.jpg" group-title="Animation",Samurai Jack
+https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
+#EXTINF:-1 tvg-id="Toonami.us" tvg-name="Toonami (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Animation",Toonami
+https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
+#EXTINF:-1 tvg-id="Toonami.us" tvg-name="Toonami (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Animation",Toonami
+https://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
 #EXTINF:-1,Disney channel
 https://h3.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=48463403&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDIxIDc6NDA6MTIgQU0maGFzaF92YWx1ZT1GZ2V1VUxWYnRid2szUjQyZmR2cHBBPT0mdmFsaWRtaW51dGVzPTI0MA==
 #EXTINF:-1,Disney xd 
