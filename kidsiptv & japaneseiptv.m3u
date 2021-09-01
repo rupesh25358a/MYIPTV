@@ -21,6 +21,8 @@ https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png", AXN
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://e7.pngegg.com/pngimages/842/991/png-clipart-axn-television-channel-pay-television-logo-others-miscellaneous-television.png" group-title="Indian Server",AXN
+http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel
