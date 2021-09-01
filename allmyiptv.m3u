@@ -5,12 +5,40 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1,STAR MOVIES HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-id="" tvg-name="STAR_MOVIES_HD" tvg-logo="" group-title="4K Live Server",STAR_MOVIES_HD
+http://143.244.60.10/ENGLISH__STAR_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="STAR-MOVIES-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="Indian Server",STAR-MOVIES-HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR_MOVIES_SELECT_HD" tvg-logo="" group-title="4K Live Server",STAR_MOVIES_SELECT_HD
+http://143.244.60.10/ENGLISH__STAR_MOVIES_SELECT_HD/tracks-v1a1/mono.m3u8?token=test#EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="" group-title="BDCable Live",Star World HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies Select HD Global" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRceWUo8_klwvQwX33uT80KbJFHDQzL2FuobJRS8vJ3NbClznj0vU_qoatAaAM60jEwpn8&usqp=CAU" group-title="English Tv Channel",Star Movies Select HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR_WORLD_HD" tvg-logo="" group-title="4K Live Server",STAR_WORLD_HD
+http://143.244.60.10/ENGLISH__STAR_WORLD_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-world.png" group-title="Indian Server",Star World HD
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star World HD Global" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-world.png" group-title="English Tv Channel",Star World HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_STARWORLD/tracks-v1a1/index.m3u8
 #EXTINF:-1,SONY PIX
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-ENG-SONYPIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5898adc68bee8059e6e513dcb693c1e2c3fa3ee96a38a82ce0b5a699482eea64c3da350d68b96f4841599956bb1bb02ab5f9d8bf5cffb57c876776baf4dfb952b86133e6cebfa4191979d24d01ce&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1,ZEE CAFE HD
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Sony LIV Server",HBO
+http://ahaohoo.com/.1/tv1/play.php?id=1959&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Now HD" tvg-logo="" group-title="Sony LIV Server",Movies Now HD
+http://ahaohoo.com/.1/tv1/play.php?id=2307&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WB" tvg-logo="" group-title="Sony LIV Server",WB
+http://ahaohoo.com/.1/tv1/play.php?id=2306&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Infinity HD Global" tvg-logo="https://nettv.com.np/storage/app/uploads/public/5da/558/fae/5da558fae6acf376045704.jpg" group-title="English Tv Channel",Colors Infinity HD Global
+http://89.187.182.181:9090/SM_FHD_ENG_COLORSINFINITY/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Rishtey_Cineplex.png/revision/latest/scale-to-width-down/250?cb=20190308001642" group-title="INDIA",RISHTEY CINEPLEX
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV_HD" tvg-logo="" group-title="4K Live Server",UTV_HD
+http://143.244.60.10/HINDI__UTV_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="UTV_ACTION" tvg-logo="" group-title="4K Live Server",UTV_ACTION
+http://143.244.60.10/HINDI__UTV_ACTION/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-name="UTV_MOVIES" tvg-logo="" group-title="4K Live Server",UTV_MOVIES
+http://143.244.60.10/HINDI__UTV_MOVIES/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="RickAndMorty.us" tvg-name="Rick and Morty (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vLzXFTa.jpg" group-title="Animation",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="SamuraiJack.us" tvg-name="Samurai Jack (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zIjbwSa.jpg" group-title="Animation",Samurai Jack
@@ -55,6 +83,8 @@ https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="" group-title="Kids",Nickelodeon
 http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CN+ HD" tvg-logo="" group-title="BDCable Live",CN+ HD
+http://tvflix03.ddns.net/ENC-18/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/gb/CartoonNetwork.uk.png" group-title="KIDS", Cartoon Network
 http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
