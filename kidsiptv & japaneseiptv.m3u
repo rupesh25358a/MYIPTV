@@ -92,8 +92,8 @@ https://adultswim-vodlive.cdn.turner.com/live/toonami/stream.m3u8
 #EXTINF:-1 tvg-id="Toonami.us" tvg-name="Toonami (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="" group-title="Animation",Toonami
 https://amd.cdn.turner.com/adultswim/big/streams/playlists/toonami.m3u8
 #EXTINF:-1,Disney channel
-https://h3.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=57195694&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIxIDg6NDI6MDkgQU0maGFzaF92YWx1ZT1Xa01sREZJVXMza0pWekc3SHZpQVFRPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h1.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=90532480&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjEgODo0NzoxMCBBTSZoYXNoX3ZhbHVlPUlwMDk5RWJpWkIzWGVvME9MTDdtS2c9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1,Disney xd 
-https://h1.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=89973383&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIxIDg6NDQ6MzYgQU0maGFzaF92YWx1ZT1tR21MUkNkUXFVMjVma3kxOSttV3NBPT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h1.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=90532614&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjEgODo0NzoyOSBBTSZoYXNoX3ZhbHVlPThWaExmV0NEREFOZFJhQlhOeURoNHc9PSZ2YWxpZG1pbnV0ZXM9MjQw
 #EXTINF:-1,Cartoon Network
-https://h3.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=57196268&wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDIxIDg6NDU6MTcgQU0maGFzaF92YWx1ZT1KbXNVOUZaOTJOYUh2T21VNEh4cG13PT0mdmFsaWRtaW51dGVzPTI0MA==
+https://h2.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=63416210&wmsAuthSign=c2VydmVyX3RpbWU9OS8xLzIwMjEgODo0NTo0MyBBTSZoYXNoX3ZhbHVlPXlCSVczMmhBdmhRa3M2T0VaMG1CMFE9PSZ2YWxpZG1pbnV0ZXM9MjQw
