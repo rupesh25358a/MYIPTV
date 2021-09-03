@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABCKids.au" tvg-name="ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static-s.aa-cdn.net/img/ios/960892021/6dcf6804c2d739fe765563a1f28f493e" group-title="Kids",ABC Kids (720p) [Not 24/7]
+https://c.mjh.nz/101002210222
+#EXTINF:-1 tvg-id="ABCME.au" tvg-name="ABC ME" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="",ABC ME (720p)
+https://c.mjh.nz/101002210224
 #EXTINF:-1,AT-X
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" group-title="Animation",Animax japan
