@@ -33,8 +33,16 @@ http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel- Hindi (1)"  group-title="Kids", Disney Channel- Hindi
 http://103.153.39.34:8000/play/a04m/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel- Hindi (2)"  group-title="Kids",Disney Channel- Hindi (2)
+http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids", DisneyChannel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-junior.png", Disney Junior
+https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LznKhbJ.png" tvg-name="Disney Junior-Hindi"  group-title="Kids",Disney Junior-Hindi
+http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png", Nickleodeon
@@ -59,8 +67,12 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #EXTINF:-1,Hungama tv
 http://103.153.39.34:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-name="Hungama TV" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ctjMaOW.png" group-title="Kids",Hungama TV (576p)
+http://70.39.83.58:8278/hungamahindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wzHl5iW.png" tvg-name="Marvel HQ HD"  group-title="Kids",Marvel HQ
 https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wzHl5iW.png" tvg-name="Marvel HQ (1)"  group-title="Kids",Marvel HQ (1)
+http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
 #EXTINF:-1,ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
