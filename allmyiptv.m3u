@@ -101,6 +101,8 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="MUSIK" tvg-logo = "https://www.dropbox.com/s/mc71f6vpjv757b5/Channel_V_Logo.svg.png?dl=1", CHANNEL V
 https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd
+#EXTINF:-1,K-POP TV
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1,MH1
 https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" tvg-url="" group-title="Music",Music India
