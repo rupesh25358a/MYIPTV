@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& Flix HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1,STAR MOVIES HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="STAR_MOVIES_HD" tvg-logo="" group-title="4K Live Server",STAR_MOVIES_HD
@@ -127,10 +127,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=re
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-url="" group-title="",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.pngfind.com/pngs/m/33-330153_vh1-logo-png-transparent-png.png",VH1
-https://d3pu3hnym3eusd.cloudfront.net/VH1.m3u8
 #EXTINF:-1,Zing
-https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1,ZOOM
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8
 #EXTINF:1,Zoom
