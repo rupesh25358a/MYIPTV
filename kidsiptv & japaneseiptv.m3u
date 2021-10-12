@@ -27,20 +27,12 @@ https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://e7.pngegg.com/pngimages/842/991/png-clipart-axn-television-channel-pay-television-logo-others-miscellaneous-television.png" group-title="Indian Server",AXN
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel Asia
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/disney-channel.png", Disney Channel Asia -(1)
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel- Hindi (1)"  group-title="Kids", Disney Channel- Hindi
 http://103.153.39.34:8000/play/a04m/index.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel- Hindi (2)"  group-title="Kids",Disney Channel- Hindi (1)
 http://70.39.83.58:8278/disneychannelhindikdin/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids", DisneyChannel
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://is.gd/6MPlxE" tvg-name="Disney XD"  group-title="Kids",Disney Junior
-http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/LznKhbJ.png" tvg-name="Disney Junior-Hindi"  group-title="Kids",Disney Junior-Hindi
 http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
