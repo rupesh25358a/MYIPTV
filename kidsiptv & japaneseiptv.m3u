@@ -13,7 +13,7 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png" tvg-id="AnimaxAsia.jp",Animax Asia
+#EXTINF:-1 tvg-id="AnimaxAsia.jp" group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png",Animax Asia
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png" tvg-id="AnimaxAsia.jp",ANIMAX (ENG-SUBS)
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
@@ -23,7 +23,7 @@ https://mediasv.online/tvchannel_x2/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3
 https://linear-playback.astro.com.my/linear-livewvdaf/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png" tvg-id="AXNEastAsia.us",AXN East Asia
+#EXTINF:-1 tvg-id="AXNEastAsia.us" group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png",AXN East Asia
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 #EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://e7.pngegg.com/pngimages/842/991/png-clipart-axn-television-channel-pay-television-logo-others-miscellaneous-television.png" group-title="Indian Server",AXN
 http://221.120.204.4/AXN-LOCKLE/playlist.m3u8
@@ -37,7 +37,7 @@ https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
 http://70.39.83.58:8278/disneyjuniorhindikdin/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png" tvg-id="NickelodeonSouthEastAsia.us",Nickelodeon South East Asia
+#EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png",Nickelodeon South East Asia
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkxZRkN2aER4LUt5TzJMSlRGRVptQjZEdzF0a2szLXdYTUhDbkEyTm51dTNOd092c2VCb1VsY08tRXVia3pGSnYzR2dmU2hWaVpHMXpUWEs4c180QThkbVBkMGQ4VzhtVzEtRmhWb0trMWZENWVwajhETGo5YWNhRVVwYUNOTl9IazJtVVMwU0RRdTRTemtFaDM4eElEWHpENXQ4MTZtcFp2WnpPVjdnNThsV0xiOGJGQ2RBeE1TOXN3Z04xSnlnVVZVNDgyNV96R3FYdjdxZ0tlYmVJZHdvQUw3TWpSRG5JWWdDTkdsRmg4RThLSnBBSGhmQlZqaEdRN0FNc2RyNVlBPT0iLCJ1ZGlkIjoiOGZjYmM3NDQ5MWQ4N2I5MSIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=isSiO0V6FOZ8%2bmkj7jp%2b3Ud%2fID0%3d
@@ -49,11 +49,11 @@ https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
 https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/cartoon-network.png" tvg-id="CartoonNetworkAsia.us",Cartoon Network Asia
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.us" group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/cartoon-network.png",Cartoon Network Asia
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png" tvg-id="BoomerangSouthEastAsia.us",Boomerang South East Asia
+#EXTINF:-1 tvg-id="BoomerangSouthEastAsia.us" group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png",Boomerang South East Asia
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
 #EXTINF:-1,SONY YAY
 http://70.39.83.58:8278/sonyyayhindikdin/playlist.m3u8
