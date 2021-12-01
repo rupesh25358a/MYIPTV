@@ -68,7 +68,7 @@ https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" tvg-url="" group-title="Music",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1,MTV Beats HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=MTV_Beats_HD&q=250&e=.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=MTV_Beats_HD&q=1200&e=.m3u8
 #EXTINF:-1,MTV BIGGEST POP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="",ShowBox
@@ -88,7 +88,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-url="" group-title="",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1,VH1 India
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=VH1&q=1200&e=.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=VH1&q=800&e=.m3u8
 #EXTINF:-1,Zing
 https://f8e7y4c6.ssl.hwcdn.net/zing/index.m3u8
 #EXTINF:-1,ZOOM
