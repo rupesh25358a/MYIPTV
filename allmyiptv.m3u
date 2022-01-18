@@ -7,10 +7,6 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="https://iconape.com/wp-content/png_logo_vector/star-world.png" group-title="Indian Server",Star World HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS INFINITY HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Colors_Infinity_HD&q=1200&e=.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Comedy_Central_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="RickAndMorty.us" tvg-name="Rick and Morty (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vLzXFTa.jpg" group-title="Animation",Rick and Morty
 https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 #EXTINF:-1 tvg-id="SamuraiJack.us" tvg-name="Samurai Jack (Adult Swim 24/7 Stream)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/zIjbwSa.jpg" group-title="Animation",Samurai Jack
@@ -41,8 +37,6 @@ https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.coppa=false&ads.is_lat=1&ads.ua=0&ads.content_type=livefeed&ads.content_rating=TV14
 #EXTINF:-1 tvg-ID="AnimaxAsia.jp" site_id="157" group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png",Animax Asia
 https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CN+ HD" tvg-logo="" group-title="BDCable Live",CN+ HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=CN_HD_English&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-url="" group-title="Music",1 Music Channel (576p)
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" group-title="",1HD Music TV
@@ -55,26 +49,18 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,4music-alldev.m3u8?
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="Music",9x Jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1,B4U MUSIC
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=B4U_Music&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Box Hits" tvg-country="UK" tvg-language="English" tvg-logo="https://tvepg.eu/img/united_kingdom/logo/box_hits.png" group-title="Music",Box Hits
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1,K-POP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 #EXTINF:-1, MASTII
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Mastiii&q=800&e=.m3u8
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1,MH1
 https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png" tvg-url="" group-title="Music",Music India
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Music_India&q=800&e=.m3u8
-#EXTINF:-1,MTV Beats HD
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=MTV_Beats_HD&q=1200&e=.m3u8
 #EXTINF:-1,MTV BIGGEST POP
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080clivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IN" tvg-language="Hindi" tvg-logo="" tvg-url="" group-title="",ShowBox
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in_480p/index.m3u8
-#EXTINF:-1 logo="http://i.imgur.com/OeSJ9Ik.png" tvg-id="8ea15a6ec7223828b7b9d885c4296ed7",SBS MTV
-http://132.145.83.248:9981/stream/channelid/1851433358?profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="The Box UK" tvg-country="UK" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="Music",The Box UK (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="RO" tvg-language="Romanian" tvg-logo="" tvg-url="" group-title="Music",UTV (576p)
@@ -87,10 +73,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=re
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0&deviceDNT=0&deviceId=841cff0d-6e73-46d7-b909-c1655a5d03ff&deviceMake=Firefox&deviceModel=web&deviceType=web&deviceVersion=86.0&includeExtendedEvents=&sid=9fb17f5b-7b2c-11eb-98f7-0242ac110002&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" tvg-url="" group-title="",VH1 (1080p)
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-#EXTINF:-1,VH1 India
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=VH1&q=800&e=.m3u8
-#EXTINF:-1,Zing
-https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Zing&q=800&e=.m3u8
 #EXTINF:-1,ZOOM
 https://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_720_av-b.m3u8
 
