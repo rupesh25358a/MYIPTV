@@ -86,9 +86,11 @@ https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wzHl5iW.png" tvg-name="Marvel HQ (1)"  group-title="Kids",Marvel HQ (1)
 http://70.39.83.58:8278/marvelhqhindikdin/playlist.m3u8
 #EXTINF:-1  group-title="Kids",Pop UK
-https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
-#EXTINF:-1  group-title="Kids",Tiny Pop
-https://edge-1192-ch-gv.filmon.com/live/318.high.stream/playlist.m3u8
+http://www.filmon.com/vr-streams/320.high/playlist.m3u8
+#EXTINF:-1  group-title="Kids",Tiny Pop 
+http://www.filmon.com/vr-streams/318.high/playlist.m3u8
+#EXTINF:-1,Kix!
+http://www.filmon.com/vr-streams/316.high/playlist.m3u8
 #EXTINF:-1,ONE
 http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
