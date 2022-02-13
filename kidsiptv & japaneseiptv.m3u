@@ -39,12 +39,14 @@ http://210.210.155.35/session/ac8040de-73b6-11ec-9175-a157ba4ad484/dr9445/h/h02/
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="AXNEastAsia.us" group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png",AXN East Asia
 https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel- Hindi (1)"  group-title="Kids", DisneyChannel US
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids", DisneyChannel US
 http://38.91.57.12:2082/disney/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel- Hindi (2)"  group-title="Kids",DisneyChannelHindi
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids",DisneyChannelHindi
 
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids", DisneyChannel India
 https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1,Teletoon
+http://38.91.57.12:2082/teletoon/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png",Nickelodeon South East Asia
