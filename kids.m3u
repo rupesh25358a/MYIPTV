@@ -15,6 +15,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c3f8f12a93c2d61b9990a
 https://c.mjh.nz/101002210222
 #EXTINF:-1 tvg-id="ABCME.au" tvg-name="ABC ME" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="",ABC ME (720p)
 https://c.mjh.nz/101002210224
+#EXTINF:-1,ANIBOX
+https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist.m3u8
 #EXTINF:-1,AT-X
 https://sub2.neetball.net/live/neet.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan (720p)
