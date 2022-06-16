@@ -4,7 +4,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",& Flix HD
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax (Indonesian Subs) (576p) [Geo-blocked]
-http://210.210.155.35/dr9445/h/h144/01.m3u8
+http://210.210.155.37/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Aniplus Asia (Indonesian Subs) (576p) [Geo-blocked]
 http://210.210.155.37/session/ac8040de-73b6-11ec-9175-a157ba4ad484/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR-MOVIES-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/STAR_Movies_logo.svg" group-title="Indian Server",STAR-MOVIES-HD
