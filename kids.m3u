@@ -5,10 +5,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc
 https://c.mjh.nz/101002210222
 #EXTINF:-1 tvg-id="ABCME.au" tvg-name="ABC ME" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" group-title="",ABC ME (720p)
 https://c.mjh.nz/101002210224
-#EXTINF:-1,ANIBOX
-https://56a6b9c3b5417.streamlock.net/livestream/smil:aniboxlive.smil/chunklist.m3u8
-#EXTINF:-1,AT-X
-https://sub2.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="ATX.jp" status="timeout",AT-X (720p)
+https://sub.neetball.net/live/neet.m3u8
+#EXTINF:-1 tvg-id="Animax.jp" status="timeout",Animax (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan (720p)
 http://210.210.155.37/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax Japan
@@ -17,21 +17,12 @@ http://50.7.74.29:8880/hlsok/j00026/index.m3u8
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-url="" group-title="kids",Animax-Asia (MY)
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5013/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="AnimaxAsia.jp" group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png",Animax Asia
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-#EXTINF:-1 group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/animax.png" tvg-id="AnimaxAsia.jp",ANIMAX (ENG-SUBS)
-http://mains.services:2086/live/stanleyg/6916329/93232.m3u8
-#EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Aniplus Asia (Indonesian Subs) (576p) [Geo-blocked]
+#EXTINF:-1,Aniplus Asia (Indonesian Subs) (576p)
 http://210.210.155.37/session/ac8040de-73b6-11ec-9175-a157ba4ad484/dr9445/h/h02/01.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 tvg-id="AXNEastAsia.us" group-title="" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/axn.png",AXN East Asia
-https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png",Nickelodeon South East Asia
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
@@ -51,29 +42,34 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="BoomerangSouthEastAsia.us" group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/boomerang.png",Boomerang South East Asia
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids", DisneyChannel US
-http://38.91.57.12:2082/disney/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids",DisneyChannelHindi
-
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/cChZ0ai.png" tvg-name="Disney Channel"  group-title="Kids", DisneyChannel India
-https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelJapan.jp" status="timeout",Disney Channel Japan (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 #EXTINF:-1,Sony yay
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
-#EXTINF:-1,Hungama tv
-http://103.153.39.34:8000/play/a04l/index.m3u8
-#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/wzHl5iW.png" tvg-name="Marvel HQ HD"  group-title="Kids",Marvel HQ
-https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
-#EXTINF:-1,ONE
-http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
-#EXTINF:-1 group-title="" tvg-logo = "https://www.dropbox.com/s/ojfyysszm36psge/sony one.png?dl=1",One(ID)
-https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+#EXTINF:-1 tvg-id="NipponTV.jp" status="timeout",Nippon TV (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp" status="timeout",Fuji TV (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+#EXTINF:-1 tvg-id="JOMXDTV.jp" status="timeout",Tokyo MX1 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+#EXTINF:-1 tvg-id="JORXDTV.jp" status="timeout",TBS (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" status="timeout",TV Tokyo (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKEducationalTV.jp" status="timeout",NHK E (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp" status="timeout",NHK G (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+#EXTINF:-1 tvg-id="GEM.sg" status="timeout",GEM (576p)
+http://210.210.155.37/uq2663/h/h19/index.m3u8
 #EXTINF:-1,ARIRANG ch HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,ARIRANG HD
 https://livecdn.fptplay.net/world/arirang_hls.smil/playlist.m3u8
-#EXTINF:-1,KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="OneTVAsia.sg" status="online",ONE TV Asia (720p)
+http://198.16.64.10:8278/One/playlist.m3u8?ct=19225&tid=MB4B6226023862260238&tsum=a05a992f9150d8a389300bf4e108767f
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="timeout",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" status="timeout",KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
