@@ -23,6 +23,8 @@ https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1,Aniplus Asia (Indonesian Subs) (576p)
 http://210.210.155.37/session/ac8040de-73b6-11ec-9175-a157ba4ad484/dr9445/h/h02/01.m3u8
+3EXTINF:-1,KIDS ZONE
+https://live.atozsofts.com/kidzone-web/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 tvg-id="NickelodeonSouthEastAsia.us" group-title="KIDS" tvg-logo="http://185.238.0.145:1313/uploads/tv_image/nickjr.png",Nickelodeon South East Asia
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
