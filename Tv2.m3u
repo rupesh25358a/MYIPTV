@@ -28,7 +28,7 @@ https://live.atozsofts.com/kidzone-web/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="DisneyChannelJapan.jp" status="timeout",Disney Channel Japan (480p) [Not 24/7]
 http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
 #EXTINF:-1,Sony yay
-https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
 #EXTINF:-1 tvg-id="NipponTV.jp" status="timeout",Nippon TV (480p) [Not 24/7]
 http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 #EXTINF:-1 tvg-id="JOCXDTV.jp" status="timeout",Fuji TV (480p)
