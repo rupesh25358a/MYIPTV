@@ -18,7 +18,7 @@ https://watchtvs.live/live.php?c=Animax&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax (720p)
 https://watchtvs.live/live.php?c=Animax&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="AnimaxJapan.jp" tvg-country="JP" tvg-language="Japanese" tvg-logo="https://i.imgur.com/zpi6mQ3.png" group-title="Animation",Animax (AUTO)
-https://watchtvs.live/live.php?c=Animax&q=autoq&e=.m3u8
+https://watchtvs.live/live.php?c=Animax
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="JP" tvg-language="Japanese" tvg-logo="" tvg-url="https://cdn.imgbin.com/9/20/3/imgbin-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-H8A1fciiChNfVC8HH1XXEynDF.jpg" group-title="kids",Animax vietnam
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
