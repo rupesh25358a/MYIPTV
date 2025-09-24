@@ -43,3 +43,6 @@ https://tvpass.org/live/DisneyChannelEast/hd
 https://tvpass.org/live/DisneyXDEast/hd
 #EXTINF:-1,ABC ME
 https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed HD" group-title="Live",Cartoon Network USA Eastern Feed HD
+https://tvpass.org/live/CartoonNetworkEast/hd
+
